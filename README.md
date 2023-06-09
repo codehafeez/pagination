@@ -10,11 +10,15 @@
 ## Run Project on Localhost
 
 ```bash
-http://localhost/pagination
+http://localhost/pagination/Example1.php
+http://localhost/pagination/Example2.php
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/Multi-Languages-PHP-DB/main/Screenshots/Output-01.png)
-![](https://raw.githubusercontent.com/codehafeez/
+![](https://raw.githubusercontent.com/codehafeez/pagination/main/Screenshots/Example1%20-%20Output.png)
+![](https://raw.githubusercontent.com/codehafeez/pagination/main/Screenshots/Example2%20-%20Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/pagination/main/Screenshots/Example2%20-%20Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/pagination/main/Screenshots/Example2%20-%20Output-03.png)
+
 
 ## 🔗 www.codehafeez.com
